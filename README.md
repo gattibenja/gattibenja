@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I’m an Electronic Engineering student with a systems-oriented mindset, working across software, hardware, and automation to build end-to-end solutions.
+**I’m an Electronic Engineering student with a systems-oriented mindset, working across software, hardware, and automation to build end-to-end solutions.**
 
 My profile sits at the intersection of:
 
